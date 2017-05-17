@@ -1,0 +1,3 @@
+[submodule "ExampleSubmodule"]
+	path = ExampleSubmodule
+	url = ssh://git@gitlab.panic.com:22222/logan/ExampleSubmodule.git
