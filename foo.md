@@ -1,4 +1,4 @@
 Making a change.
-foo
+    foo
 bar
 
